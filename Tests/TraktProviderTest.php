@@ -22,7 +22,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class TraktProviderTest extends TestCase
 {
-    private const OPTIONS = ['client_id' => 'not-a-real-trakt-client-id', 'user_agent' => 'omnifilm-tests/1.0 (+https://github.com/glitchr-studio/omnifilm)'];
+    private const OPTIONS = ['client_id' => 'not-a-real-trakt-client-id', 'user_agent' => 'omnifilm-tests/1.0 (+https://github.com/glitchr-omnisense/omnifilm)'];
 
     public function testASearchWithTheApplicationsHeaders(): void
     {

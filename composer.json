@@ -12,7 +12,7 @@
         "framework-agnostic",
         "omnifilm"
     ],
-    "homepage": "https://github.com/glitchr-studio/omnifilm-trakt",
+    "homepage": "https://github.com/glitchr-omnisense/omnifilm-trakt",
     "license": "MIT",
     "authors": [
         {
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "omniscient/omnifilm": "^1.0@dev",
+        "omnisense/omnifilm": "^1.0@dev",
         "symfony/http-client": "^6.4|^7.0|^8.0"
     },
     "require-dev": {

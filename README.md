@@ -1,6 +1,6 @@
 # omnifilm/trakt
 
-[omniscient/omnifilm](https://github.com/glitchr-studio/omnifilm)'s Trakt, under any PHP host,
+[omnisense/omnifilm](https://github.com/glitchr-omnisense/omnifilm)'s Trakt, under any PHP host,
 through Trakt's public API with an application's client id (no user signed in): search, a film's or
 a show's record (`extended=full`) and its people, a work or an episode by its Trakt, IMDb, TMDB or
 TheTVDB number (`/search/{id_type}/{id}`), a season's episodes. Trakt serves no pictures: its
